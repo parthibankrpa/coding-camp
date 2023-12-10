@@ -2,7 +2,7 @@
   "name": "coding-camp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://parthibankrpa.github.io/oding-camp",
+  "homepage": "https://parthibankrpa.github.io/coding-camp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
