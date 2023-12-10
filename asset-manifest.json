@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oding-camp/static/css/main.f855e6bc.css",
-    "main.js": "/oding-camp/static/js/main.5d116be1.js",
-    "static/js/787.e9addf83.chunk.js": "/oding-camp/static/js/787.e9addf83.chunk.js",
-    "static/media/logo.svg": "/oding-camp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/oding-camp/index.html",
-    "main.f855e6bc.css.map": "/oding-camp/static/css/main.f855e6bc.css.map",
-    "main.5d116be1.js.map": "/oding-camp/static/js/main.5d116be1.js.map",
-    "787.e9addf83.chunk.js.map": "/oding-camp/static/js/787.e9addf83.chunk.js.map"
+    "main.css": "/coding-camp/static/css/main.f855e6bc.css",
+    "main.js": "/coding-camp/static/js/main.b6f9af38.js",
+    "static/js/787.e9addf83.chunk.js": "/coding-camp/static/js/787.e9addf83.chunk.js",
+    "static/media/logo.svg": "/coding-camp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/coding-camp/index.html",
+    "main.f855e6bc.css.map": "/coding-camp/static/css/main.f855e6bc.css.map",
+    "main.b6f9af38.js.map": "/coding-camp/static/js/main.b6f9af38.js.map",
+    "787.e9addf83.chunk.js.map": "/coding-camp/static/js/787.e9addf83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.5d116be1.js"
+    "static/js/main.b6f9af38.js"
   ]
 }
